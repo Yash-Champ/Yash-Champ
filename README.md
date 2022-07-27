@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/85cf7e1a8b85221e81ba91cbce29c917b91a7390bb3ca06aa31cfd1eadd7fe60/68747470733a2f2f7777772e337269746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31312f4d45524e2d537461636b2d547261696e696e672d696e2d50756e652d65313537353032323432373234342e706e67)
 <h1 align="center">Hi 👋, I'm Yash Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" margin-right="60%" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right"alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yash-champ&label=Profile%20views&color=0e75b6&style=flat" alt="yash-champ" /> </p>
 
