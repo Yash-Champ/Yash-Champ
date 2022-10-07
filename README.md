@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-champ&show_icons=true&locale=en" alt="yash-champ" /></p>
 
-<p align="center">- 📫 How to reach me <a>tyagiyash466@gmail.com</a></p>
+<p align="center">- 📫 How to reach me - *tyagiyash466@gmail.com* </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
